@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TrogSeag</h1>
+<h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">A Frontend developer from VietNam</h3>
 <img align="right" alt="coding" width="400" src="https://pbs.twimg.com/media/F8jtrjybIAAulwf?format=jpg&name=large"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangtrungzos&label=Profile%20views&color=0e75b6&style=flat" alt="mangtrungzos" /> </p>
