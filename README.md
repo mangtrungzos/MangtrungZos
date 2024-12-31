@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/seag-trong-395176332/" target="blank"><img align="center" src="" />Linkedln</a>
+<a href="https://www.linkedin.com/in/seag-trong-395176332/" target="blank">Linkedln</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
